@@ -45,9 +45,7 @@ All meetings can be joined via the Zoom link below:
 If you are interested in participating in PyCoP, please take 10-15 minutes
 before our first meetings next week to fill out the [member information
 survey](https://forms.gle/onKBy2XkRPjM5ZYt5) so we can learn about you as a
-member of our community:
-
-![Static Badge](https://img.shields.io/badge/Member_Survey-Respond-orange?link=https%3A%2F%2Fforms.gle%2FonKBy2XkRPjM5ZYt5)
+member of our community.
 
 I am greatly looking forward to our discussions this term and building this community with y'all!
 
