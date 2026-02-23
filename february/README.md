@@ -25,7 +25,7 @@ participated in.
 To launch the activities, click on the links below:
 
 * [Launch the Basic Python Syntax activity on ChemCompute](https://chemcompute.org/jupyterhub_internal/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdsirianni%2Flabsip-pycop&urlpath=lab%2Ftree%2Flabsip-pycop%2Ffebruary%2F0_python-basics.ipynb&branch=main)
-* [Launch the Particle-in-a-Box activity on ChemCompute](https://chemcompute.org/jupyterhub_internal/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdsirianni%2Flabsip-pycop&urlpath=lab%2Ftree%2Flabsip-pycop%2F1_particle-in-a-box.ipynb&branch=main)
+* [Launch the Particle-in-a-Box activity on ChemCompute](https://chemcompute.org/jupyterhub_internal/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdsirianni%2Flabsip-pycop&urlpath=lab%2Ftree%2Flabsip-pycop%2Ffebruary%2F1_particle-in-a-box.ipynb&branch=main)
 
 ### External Resources
 
