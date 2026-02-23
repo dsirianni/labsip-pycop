@@ -30,7 +30,8 @@ equivalent, please feel free to bounce between them if necessary for your
 schedule! 
 
 All meetings can be joined via the Zoom link below:
-![Static Badge](https://img.shields.io/badge/Zoom-Join-blue?link=https%3A%2F%2Fcarleton.zoom.us%2Fj%2F99870573109%3Fpwd%3DiIHBRfTKSGhOE2Gu7V0ebwvaBw0UXx.1%26jst%3D2)
+
+[Join Zoom](https://carleton.zoom.us/j/99870573109?pwd=iIHBRfTKSGhOE2Gu7V0ebwvaBw0UXx.1&jst=2)
 
 | Month    | Monday | Thursday | Speaker                              | Discussion Topic                                  | Launch Materials |
 |:--------:|:------:|:--------:|:-------------------------------------|:--------------------------------------------------|:----------------:|
